@@ -23,7 +23,7 @@ It's very easy to use, you just need to install and configure Twitter button plu
 * **Ability to choose where to display tweet button(pages, front page).**
 * **Ability to display Twitter Button before content.**
 
-### Features of [Twitter button plus Pro](http://wpdevart.com/wordpress-facebook-like-box-plugin/):
+### Features of [Twitter button plus Pro](http://wpdevart.com/wordpress-twitter-plugin/):
 
 * **Ability to Choose Twitter Button Style.**
 * **Ability to display Twitter Button after content.**
