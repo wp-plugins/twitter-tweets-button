@@ -32,10 +32,7 @@ It's very easy to use, you just need to install and configure Twitter button plu
 
 ### If you found any bug in our Twitter button plus plugin or have a question **[CONTACT US](http://wpdevart.com/contact-us)**.
 
-Dear users, also we recommend you to take a look for this useful plugins.
-- [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/)
-- [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/)
-- [Facebook like box WordPress](https://wordpress.org/plugins/like-box/)
+Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/) .
 
 == Installation ==
 
@@ -46,10 +43,7 @@ Dear users, also we recommend you to take a look for this useful plugins.
 3. Activate the plugin. 
 4. Then configure the Twitter button plus options.     
 
-Dear users, also we recommend you to take a look for this useful plugins.
-- [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/)
-- [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/)
-- [Facebook like box WordPress](https://wordpress.org/plugins/like-box/)
+Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/) .
 
 == Screenshots ==
 
