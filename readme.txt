@@ -34,7 +34,7 @@ You can upgrade WordPress Twitter button plus plugin to [Twitter button plus Pro
 
 ### If you found any bug in our Twitter button plus plugin or have a question contact us at support@wpdevart.com.
 
-Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player) .
+Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown](https://wordpress.org/plugins/widget-countdown) .
 
 == Installation ==
 
@@ -45,7 +45,7 @@ Dear users, also we recommend you to take a look for this useful plugins - [Word
 3. Activate the plugin. 
 4. Then configure the Twitter button plus options.     
 
-Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player) .
+Dear users, also we recommend you to take a look for this useful plugins - [WordPress Maintenance mode plugin](https://wordpress.org/plugins/coming-soon-page/), [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [Facebook like box WordPress](https://wordpress.org/plugins/like-box/),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown](https://wordpress.org/plugins/widget-countdown) .
 
 == Screenshots ==
 
